@@ -1,1 +1,1 @@
-Brief description of the project, fill in at the end, DONT FORGET
+Brief description of the project. Fill in at the end. DONT FORGET
